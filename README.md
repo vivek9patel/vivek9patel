@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **React.js, Express, Typescript, etc.**
+- 🌱 I’m currently learning **Redux, Express, Typescript, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/vivek9patel?tab=repositories)
 
