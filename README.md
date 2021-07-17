@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/vivek9patel?tab=repositories)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript** & **CSS**
 
 - 📫 How to reach me **vivek.p9737@gmail.com**
 
