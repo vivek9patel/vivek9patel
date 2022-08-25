@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vivek Patel</h1>
-<h3 align="center">A passionate computer science student from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **Redux, Express, Typescript, etc.**
+- 🌱 I’m currently learning about **Product Design**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/vivek9patel?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/vivek9patel?tab=repositories)
 
 - 💬 Ask me about **Javascript** & **CSS**
 
