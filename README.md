@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **Product Design**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/vivek9patel?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://www.vivek9patel.com/projects)
 
 - 💬 Ask me about **Javascript** & **CSS**
 
