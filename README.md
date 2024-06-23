@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vivek Patel</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<!-- <h3 align="center">A passionate Software Engineer</h3> -->
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning about **Product Design**
+- 🌱 I’m currently exploring about **RAG applications & Applied LLMs**
 
 - 👨‍💻 All of my projects are available [here](https://www.vivek9patel.com/projects)
 
-- 💬 Ask me about **Javascript** & **CSS**
-
 - 📫 How to reach me **vivek.p9737@gmail.com**
 
-
+<!--
 	
 ### 🛠 &nbsp;Languages and Tools
 
@@ -41,7 +39,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
-
+-->
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
